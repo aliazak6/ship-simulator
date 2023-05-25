@@ -1,0 +1,3 @@
+/simulation-results
+*.mat
+__pycache__
