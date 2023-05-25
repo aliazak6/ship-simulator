@@ -2,6 +2,8 @@
 
 Ship simulator repository is used the code and work of Matheus Bernat & Ludvig Granström made in 2021. It is written to run their MATLAB implementation of simulating motion of waves and motion of ships on those waves on Python. Python code is written for integration and further development.
 
+Original MATLAB code link: https://github.com/LINK-SIC-2021-Bernat-Granstrom/ship-simulator
+
 ## Installation
 Just clone the repository on your machine.
 
